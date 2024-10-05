@@ -1,2 +1,0 @@
-# hackclub
-hack club hackathon 
